@@ -20,8 +20,8 @@ export default function Header() {
     "English", "Spanish", "Chinese"
   ];
 
-  const changeMenuLanguage() {
-    setLang();
+  function changeMenuLanguage(){
+    setLang("Spanish");
   }
 
   return (
