@@ -28,3 +28,7 @@ build/
 .env
 .env.example
 
+
+
+# React
+node_modules/
