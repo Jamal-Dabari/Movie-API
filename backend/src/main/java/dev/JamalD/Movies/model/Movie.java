@@ -1,4 +1,4 @@
-package dev.JamalD.Movies;
+package dev.JamalD.Movies.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
